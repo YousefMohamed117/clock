@@ -7,7 +7,7 @@ setInterval(() => {
   let minutes = new Date().getMinutes();
   let hours = new Date().getHours();
 
-    console.log(seconds , minutes , hours);
+
 
   sec.style.transform = `rotate(${seconds * 6}deg)  ` 
   min.style.transform = `rotate(${(minutes * 6) + (seconds/10)}deg)  ` 
