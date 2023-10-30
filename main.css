@@ -48,7 +48,7 @@ body {
 }
 .sec {
   height: 35%;
-  background-color: #7571b9;
+  background-color: white;
   width: 2px;
   top: calc(200px - 35%);
 }
