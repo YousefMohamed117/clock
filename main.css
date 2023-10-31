@@ -34,6 +34,7 @@ body {
   background-color: black;
   transform-origin: bottom;
   z-index: 1;
+  border-radious: 50% 50% 0 0;
 }
 .circle {
   position: absolute;
@@ -57,12 +58,12 @@ body {
   top: 100px;
   top: calc(200px - 30%);
   width: 5px;
-  border-radius: 15px;
+  
 }
 .hour {
   height: 25%;
   top: 70px;
   top: calc(200px - 25%);
   width: 10px;
-  border-radius: 15px;
+ 
 }
